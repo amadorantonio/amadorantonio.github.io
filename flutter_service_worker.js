@@ -6,6 +6,12 @@ const RESOURCES = {
   "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"assets/images/basicos.png": "71ebe10f13935e03ba33c80cb0cfb568",
+"assets/images/cuppertino.png": "5d39d2d5bfed487820da715447b0e8f0",
+"assets/images/flutterwite.png": "6c6df78f4811e129e7230d8c7c0a2431",
+"assets/images/flutterwite.svg": "e4751c97b1621ac5d705e2fd662fc492",
+"assets/images/layout.png": "26a306bed8c8e69fd6a43be83304cb7e",
+"assets/images/material.png": "14926021ffecef8b53d8029bfb18d757",
 "assets/images/materialscaffold.png": "051207d8b2685042d15b2a51becd9cbf",
 "assets/images/widgetscolumn.png": "c7e7384c54770da024155798d6a048e9",
 "assets/images/widgetscontainer.png": "89b33b8f46f853d511e7f1a9aeee7dcf",
@@ -22,10 +28,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "cfd0bbe77ce1ce04ab5dc564520d9a91",
-"/": "cfd0bbe77ce1ce04ab5dc564520d9a91",
-"main.dart.js": "2716544483b395041251539363587704",
-"manifest.json": "6fde9d6b0bc1fc9d9c33892f212f8c03",
+"index.html": "8f4ee9d14ab62c6995a719bbee61fdef",
+"/": "8f4ee9d14ab62c6995a719bbee61fdef",
+"main.dart.js": "a7680e68481d127323a315c4302f1d7c",
+"manifest.json": "5fa43a3457e729d9b2b799f3cd09b60b",
 "version.json": "7264b08f4d561f82785711ba839da41d"
 };
 
